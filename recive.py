@@ -44,6 +44,7 @@ while True:
 
 # In kích thước của message
     print("Kích thước của message là:", size, "byte")
+    print("Da thay doi ")
 
     
         #print(" [x] DO AM = " + data1)

@@ -1,3 +1,5 @@
+import pip
+pip.main(["install", "pika"])
 import pika
 import json
 import time

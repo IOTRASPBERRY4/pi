@@ -11,7 +11,7 @@ from influxdb_client import InfluxDBClient, Point, WritePrecision, WriteOptions
 from influxdb_client.client.write_api import SYNCHRONOUS
 
 #CAU HINH LINE NOTIFY
-#MA TRUY CAP LINE NOTIFY.
+#MA TRUY CAP LINE NOTIFY 1.
 ACCESS_TOKEN = "ClypwkTdGlVxjzHAo6ri1XeHgjWDRcNrnShbEdmq7ND"
 notify = LineNotify(ACCESS_TOKEN)
 
